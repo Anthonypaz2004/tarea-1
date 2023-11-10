@@ -1,0 +1,36 @@
+-------------"Universidad de las Fuerzas Armadas"-------------
+                          ESPE
+Asignatura: Programación enfocada a objetos.
+NRC:13930
+Nombre: Anthony Paz
+
+1) git clone: Clona un repositorio remoto en tu máquina local.
+2) git init: Inicializa un nuevo repositorio Git en un directorio local.
+3) git add: Añade cambios al área de preparación (staging) para su posterior confirmación.
+4) git commit: Confirma los cambios en el repositorio local.
+5) git push: Sube los cambios confirmados al repositorio remoto en GitHub.
+6) git pull: Obtiene y fusiona los cambios desde el repositorio remoto en tu repositorio local.
+7) git fetch: Obtiene cambios del repositorio remoto pero no los fusiona automáticamente.
+8) git branch: Muestra una lista de las ramas locales y destaca la rama actual.
+9) git checkout: Cambia a una rama o commit específico.
+10) git merge: Fusiona una rama con otra.
+11) git rebase: Reorganiza la historia del repositorio local al aplicar cambios de una rama a otra.
+12) git status: Muestra el estado de los archivos en el repositorio.
+13) git log: Muestra un registro de confirmaciones (commits).
+14) git diff: Muestra las diferencias entre archivos o commits.
+15) git remote: Muestra la lista de repositorios remotos configurados.
+16) git remote add: Agrega un repositorio remoto.
+17) git remote remove: Elimina un repositorio remoto.
+18) git branch -d: Elimina una rama local.
+19) git push origin --delete: Elimina una rama remota en GitHub.
+20) git tag: Administra etiquetas (tags) para versiones específicas del proyecto.
+21) git stash: Guarda temporalmente cambios sin confirmar en una pila de cambios.
+22) git cherry-pick: Aplica un commit específico de una rama a otra.
+23) git reset: Permite deshacer cambios y modificar el área de preparación o el repositorio local.
+24) git blame: Muestra quién hizo cambios en cada línea de un archivo.
+25) git fetch --prune: Actualiza la lista de ramas remotas y elimina las que ya no existen en el repositorio remoto.
+26) git log --graph: Muestra el registro de commits con un gráfico de ramificación.
+27) git submodule: Administra submódulos, que son repositorios Git dentro de otro repositorio Git.
+28) git revert: Crea una nueva confirmación que deshace los cambios de una confirmación anterior.
+29) git archive: Crea un archivo comprimido (.tar, .zip) de una rama o commit específico.
+30) git bisect: Ayuda a encontrar el commit que introdujo un error al realizar una búsqueda binaria en la historia.
